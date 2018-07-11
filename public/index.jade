@@ -1,1 +1,3 @@
-h1= title
+for art, slug in public.art._data
+    h2: a(href="/art/#{slug}")= art.name
+    script(src="/js/#{slug}.js")

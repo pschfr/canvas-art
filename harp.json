@@ -1,6 +1,7 @@
 {
 	"globals": {
 		"title": "Canvas Art",
+		"author": "Paul Schaefer",
 		"githubURL": "https://github.com/pschfr/canvas-art"
 	}
 }
